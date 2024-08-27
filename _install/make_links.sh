@@ -1,4 +1,4 @@
-
+facebook//https 
 DEV_DIR=/home/rawalk/Desktop/sapiens/seg
 DISK_DIR=/home/rawalk/drive/seg
 
